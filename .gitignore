@@ -1,0 +1,5 @@
+DifficultRiskWebAPI/
+__pycache__/
+*.sqlite3
+.env
+flask_session/
